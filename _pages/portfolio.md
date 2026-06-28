@@ -1,7 +1,8 @@
 ---
-title: "Portfolio"
-layout: splash
+title: Portfolio
+layout: collection
 permalink: /portfolio/
-author_profile: false
-
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---

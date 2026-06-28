@@ -2,7 +2,7 @@
 main:
    #- title: "Quick-Start Guide"
    #  url: /
-   - title: "About"
+   - title: "Contact"
      url: /about/
    - title: "Portfolio"
      url: /portfolio/

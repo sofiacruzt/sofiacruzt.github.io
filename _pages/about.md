@@ -1,6 +1,6 @@
 ---
-title: "About"
-layout: home
+title: "Contact"
+layout: posts
 permalink: /about/
 author_profile: true
 
