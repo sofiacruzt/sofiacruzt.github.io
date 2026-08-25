@@ -2,11 +2,12 @@
 main:
    #- title: "Quick-Start Guide"
    #  url: /
-   - title: "Contact"
-     url: /about/
+
    - title: "Portfolio"
      url: /portfolio/
    - title: "Publications"
      url: /publications/
-   - title: "Scripts"
-     url: /scripts/
+   - title: "Contact"
+     url: /about/
+   #- title: "Scripts"
+    # url: /scripts/
